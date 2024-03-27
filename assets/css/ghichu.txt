@@ -1,0 +1,2 @@
+inline: không xét được width height
+căn phần tử theo phần tử khác: position - relative - absolute
